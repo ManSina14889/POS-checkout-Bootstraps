@@ -1,0 +1,30 @@
+.container {
+    max-width: 1200px;
+}
+
+.table th {
+    background-color: #f8f8fa;
+}
+
+.table td, .table th {
+    vertical-align: middle;
+}
+
+.btn-close:focus {
+    box-shadow: none;
+}
+
+.modal-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.modal-footer {
+    background-color: #f8f9fa;
+    border-top: 1px solid #dee2e6;
+}
+
+.form-control:focus {
+    border-color: #80bdff;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
